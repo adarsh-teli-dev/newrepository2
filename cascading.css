@@ -2,3 +2,6 @@ p{
     background-color: black;
     border: 2px;
 }
+h1{
+    background-image: -moz-linear-gradient();
+}
